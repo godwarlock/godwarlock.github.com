@@ -1,4 +1,5 @@
 # Jekyll-Bootstrap
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/godwarlock/godwarlock.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
